@@ -2,26 +2,9 @@
 
 .section_intro {
   background-color: maroon;
-}
-
-.section_intro {
   color: white;
 }
 
-pre {
-  color: maroon;
-}
-
-td.key {
-  color: blue;
-}
-
-#last_slide {
-  background-color: maroon;
-  color: white;
-}
-
-#last_slide h1 {
-  font-family: "Courier New";
+.section_intro h1 {
   margin-top: 250px;
 }
